@@ -35,4 +35,4 @@ Eventough my exams is in 4 days but still giving my efforts and not leaving prac
 
 ## Deployed link
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/a1d230d3-a25b-4b17-891e-97eb1b313980/deploy-status)](https://rohankaushik10thproject.netlify.app/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a1d230d3-a25b-4b17-891e-97eb1b313980/deploy-status)](rohankaushik11thproject.netlify.app/)
