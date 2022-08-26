@@ -2,13 +2,6 @@
 
 Eventough my exams is in 4 days but still giving my efforts and not leaving practice
 
-## What I have learnt in this Project
-   - This Project is Created only using flexbox because I want to explore the Flexbox bugs and want to learn that 
-   - you can see my HTML file how well planned and ordered it is as I am begginer I  loved that style that I used
-## Font used
-  - Lato google font 
-
-
 
   ## How to add Icons from Fontawesome to HTML code
 
